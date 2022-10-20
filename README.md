@@ -16,7 +16,6 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ML/DL, PyTorch
-- 🤔 I’m looking for help with ...
 - ☕ How to reach me: <a href="mailto:sangsari2221@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangsari2221@gmail.com"/></a>
 
 
